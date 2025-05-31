@@ -1,4 +1,3 @@
-```markdown
 # ¡Hola! Soy José Antonio Soto 👋
 
 **📍 La Serena, Extremadura**  
@@ -10,9 +9,17 @@
 
 ## Sobre mí
 
-De un pueblo en La Serena. Empecé como técnico electromecánico arreglando camiones, lo que despertó mi interés por la electrónica y las matemáticas. Estudié Ingeniería Electrónica Industrial y Automática, donde realicé mi TFG sobre el control dinámico del robot ABB IRB-140 usando MATLAB, Simulink y Autodesk Inventor.
+De un pueblo en La Serena. Empecé como técnico electromecánico  
+arreglando camiones, lo que despertó mi interés por la electrónica y  
+las matemáticas. Estudié Ingeniería Electrónica Industrial y Automática,  
+donde realicé mi TFG sobre el control dinámico del robot ABB IRB-140  
+usando MATLAB, Simulink y Autodesk Inventor.
 
-Tras graduarme, obtuve una beca de Data Scientist y aprendí Python, R, VBA y SQL, además de fundamentos de Machine Learning. Luego trabajé implantando sistemas de análisis de datos en PYMEs industriales y, ahora, soy Data Manager en IESMAT, donde gestiono datos de instrumentación de laboratorio y diseño pipelines interdepartamentales.
+Tras graduarme, obtuve una beca de Data Scientist y aprendí Python, R,  
+VBA y SQL, además de fundamentos de Machine Learning. Luego trabajé  
+implantando sistemas de análisis de datos en PYMEs industriales y,  
+ahora, soy Data Manager en IESMAT, donde gestiono datos de  
+instrumentación de laboratorio y diseño pipelines interdepartamentales.
 
 ---
 
@@ -30,7 +37,8 @@ Tras graduarme, obtuve una beca de Data Scientist y aprendí Python, R, VBA y SQ
 
 1. Publicar proyectos de Deep Learning y Machine Learning.  
 2. Contribuir a proyectos Open Source de visión por computadora.  
-3. Compartir buenas prácticas de ingeniería de datos y despliegue de modelos.
+3. Compartir buenas prácticas de ingeniería de datos y despliegue de  
+   modelos.
 
 ---
 
@@ -41,5 +49,5 @@ Tras graduarme, obtuve una beca de Data Scientist y aprendí Python, R, VBA y SQ
 
 ---
 
-Este espacio será mi vitrina para notebooks, scripts y recursos de Data Science.  
-```
+Este espacio será mi vitrina para notebooks, scripts y recursos de  
+Data Science.  
