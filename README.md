@@ -31,15 +31,17 @@ Después de graduarme, obtuve una beca de **Data Scientist** en la que, de forma
   - Contribución a mejoras significativas en eficiencia y registro de información.
 
 - **Data Manager en IESMAT (Instrumentación Específica de Materiales)**  
-  - Gestión y análisis de grandes volúmenes de datos de instrumentación de laboratorio.  
-  - Desarrollo de pipelines de datos para proyectos de investigación y control de calidad.
+  - Gestión y análisis de datos estrategicos.  
+  - Desarrollo de mejoras en los diferentes pipelines de trabajos interdepartamentales.
+  - Transformacion digitale de sistemas basados en soluciones de orquestacion y agentes.
+  - Control de calidad.
 
 ---
 
 ## 🛠️ Habilidades y Tecnologías
 
 - **Lenguajes de programación**:  
-  - Python · R · VBA · SQL  
+  - Python · R · VBA · SQL  · C · C++ · Microchip Assembly
 - **Herramientas y librerías de ML/Data**:  
   - NumPy · Pandas · Scikit-Learn · Matplotlib  
   - (Próximamente: PyTorch · TensorFlow)  
