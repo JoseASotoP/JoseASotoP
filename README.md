@@ -64,8 +64,7 @@ Después de graduarme, obtuve una beca de **Data Scientist** en la que, de forma
 ## 📫 ¿Cómo contactarme?
 
 - 📧 **Email:** jsotop1991@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/joseantoniosoto](https://www.linkedin.com/in/joseantoniosoto)  
-- 🐦 **Twitter:** [@JoseASotoP](https://twitter.com/JoseASotoP) (opcional)
+- 🔗 **LinkedIn:** [linkedin.com/in/joseantoniosoto](https://www.linkedin.com/in/joseantoniosoto) 
 
 ---
 
