@@ -92,7 +92,7 @@ transformation.
 ## Contact
 
 - 📧 jsotop1991@gmail.com  
-- 🔗 [linkedin.com/in/joseantoniosoto](https://www.linkedin.com/in/joseantoniosoto)
+- 🔗 https://es.linkedin.com/in/jaspingelectronico
 
 ---
 
